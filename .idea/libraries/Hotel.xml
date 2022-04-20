@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Hotel">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Hotel.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/Hotel.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hotel.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hotel.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hotel.jar!/" />
+    </SOURCES>
+  </library>
+</component>
